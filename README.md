@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Nimkar</h1>
 <h3 align="center">A passionate DevOps & High Performance Computing enthusiast from India</h3>
 
-- 🔭 I’m currently working on **About Devops Secure Software Development Lifecycle (DevOps SSDLC)**
+- 🔭 I’m currently working on **Devops Secure Software Development Lifecycle (DevOps SSDLC)**
 
 - 🌱 I’m currently learning **AWS, Terraform**
 
