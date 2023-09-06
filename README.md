@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nimkarshubham23@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/shubham-nimkar-5736b59a](www.linkedin.com/in/shubham-nimkar-5736b59a)
+- 📄 Know about my experiences [www.linkedin.com/in/shubham-nimkar](www.linkedin.com/in/shubham-nimkar-5736b59a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
