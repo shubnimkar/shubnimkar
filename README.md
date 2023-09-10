@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubnimkar](https://github.com/shubnimkar)
 
-- 📝 I regularly write articles on [https://shubnimkar.hashnode.dev/](https://shubnimkar.hashnode.dev/)
+- 📝 I regularly write articles on (https://medium.com/@shubnimkar)
 
 - 📫 How to reach me **nimkarshubham23@gmail.com**
 
