@@ -1,22 +1,27 @@
 <h1 align="center">Hi 👋, I'm Shubham Nimkar</h1>
 <h3 align="center">A passionate DevOps & High Performance Computing enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Devops Secure Software Development Lifecycle (DevOps SSDLC)**
+- 🔭 I’m currently working on [About Devops Secure Software Development Lifecycle (DevOps SSDLC)](https://github.com/shubnimkar/DevSecOps)
 
 - 🌱 I’m currently learning **AWS, Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubnimkar](https://github.com/shubnimkar)
 
-- 📝 I regularly write articles on (https://medium.com/@shubnimkar)
+- 📝 I regularly write articles on [https://medium.com/@shubnimkar](https://medium.com/@shubnimkar)
 
 - 📫 How to reach me **nimkarshubham23@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/shubham-nimkar](www.linkedin.com/in/shubham-nimkar-5736b59a)
+- 📄 Know about my experiences [www.linkedin.com/in/shubham-nimkar-5736b59a](www.linkedin.com/in/shubham-nimkar-5736b59a)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-nimkar-5736b59a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-nimkar-5736b59a" height="30" width="40" /></a>
 <a href="https://hashnode.com/@shubnimkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubnimkar" height="30" width="40" /></a>
+<a href="https://medium.com/@shubnimkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubnimkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
