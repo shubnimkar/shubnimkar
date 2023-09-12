@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shubham Nimkar</h1>
-<h3 align="center">A passionate DevOps & High Performance Computing enthusiast from India</h3>
+<p align="center">
+  <img src="https://github.com/shubnimkar/shubnimkar/blob/master/ezgif.com-video-to-gif.gif"
+>
+</p>
 
 - 🔭 I’m currently working on [About Devops Secure Software Development Lifecycle (DevOps SSDLC)](https://github.com/shubnimkar/DevSecOps)
 
