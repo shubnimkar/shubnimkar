@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shubnimkar/shubnimkar/blob/master/ezgif.com-video-to-gif.gif"
+  <img src="https://github.com/shubnimkar/shubnimkar/blob/master/Header.gif"
 >
 </p>
 
