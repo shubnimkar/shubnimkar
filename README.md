@@ -39,7 +39,7 @@
 
 <strong>🏆 Shubham's github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/shubnimkar"><img src="https://stats.hyochan.dev/api/github-stats?login=shubnimkar" width="600" /></a>
+![shubnimkar github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=shubnimkar)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shubnimkar&limit=5&theme=flat&combine_all_yearly_contributions=true)
