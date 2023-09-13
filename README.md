@@ -20,6 +20,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubnimkar&label=Profile%20views&color=0e75b6&style=flat" alt="shubnimkar" /> </p>
 
+[![Github Follow](https://img.shields.io/github/followers/shubnimkar?label=Follow%20Me&style=social)](https://github.com/shubnimkar)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshubnimkar&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-nimkar-5736b59a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-nimkar-5736b59a" height="30" width="40" /></a>
