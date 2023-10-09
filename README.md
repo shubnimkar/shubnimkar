@@ -5,8 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [About Devops Secure Software Development Lifecycle (DevOps SSDLC)](https://github.com/shubnimkar/DevSecOps)
-
+- 🔭 I’m currently working on Gitops,CICD,Terraform,Ansible
 - 🌱 I’m currently learning **AWS, Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubnimkar](https://github.com/shubnimkar)
