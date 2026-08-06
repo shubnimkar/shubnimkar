@@ -5,8 +5,7 @@
 
 
 
-- 🔭 I’m currently working on Internal Devops Platform
-- 🌱 I’m currently learning **AWS, Terraform**
+- 🔭 I’m currently working on Enterprise endpoint telemetry platform
 
 - :star2: Check Out My website Here [My Portfolio Website](https://portfolio-bay-kappa-96.vercel.app/)
 
